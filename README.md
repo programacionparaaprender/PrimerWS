@@ -4,6 +4,7 @@
 >- plugin JBoss Tools 4.13.0.Final
 >- Web Dynamic 2.4
 >- Servicor JBoss EAP 7.2 Windows
+>- java 1.8
 
 ### vídeo de ejemplo
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
