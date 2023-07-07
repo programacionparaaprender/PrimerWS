@@ -1,8 +1,11 @@
 
+### cursos
+>- https://udemy.com/course/admin-jboss-eap/learn/lecture/13754360#overview
+
 ### proyecto realizado
 >-  en spring tool suite 3.9.11
 >- plugin JBoss Tools 4.13.0.Final
->- Web Dynamic 2.4
+>- Web Dynamic 2.5
 >- Servicor JBoss EAP 7.2 Windows
 >- java 1.8
 >- Spring Tool Suite 3.9.11.RELEASE
@@ -15,8 +18,19 @@
 ### levantar jboss
 >- standalone.bat -b 0.0.0.0
 
-### vídeo de ejemplo
+### cambiar la dirección de administrador mediante comandos, primero por la siguiente ruta
+>- http://localhost:9990/console/index.html#interface;name=public
+>- ./standalone.bat -Djboss.bind.address.management=192.168.100.180
+
+
+### archivo de congiguración:
+>- en linux /opt/jboss/bin/init.d
+>- en windows C:\jboss-eap-7.2\bin\standalone.conf.bat
+
+
+### vídeo de ejemplo web service
+>- https://www.youtube.com/watch?v=4n33DDhbY4s
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 
 ###  ruta de prueba de web service
->- http://localhost:14971/PrimerWS/HolaWebService?wsdl
+>- http://localhost:8080/PrimerWS/HolaWebService?wsdl
