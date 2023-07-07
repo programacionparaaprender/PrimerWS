@@ -15,8 +15,9 @@
 >- https://www.youtube.com/watch?v=FCgTSgGaxD8
 >- https://developers.redhat.com/products/eap/download?sc_cid=701f2000000Rm5EAAS&gclid=CjwKCAjwp-X0BRAFEiwAheRui1RkJiwqh5J4T098xpBE-jzyItsB3diTB0oVGwK_9b-oUh_g9ILpDhoCW0sQAvD_BwE&gclsrc=aw.ds%E2%80%8B
 
-### levantar jboss
+### levantar jboss EAP 7.2
 >- standalone.bat -b 0.0.0.0
+>- standalone.bat -c stanalone-full.xml
 
 ### cambiar la dirección de administrador mediante comandos, primero por la siguiente ruta
 >- http://localhost:9990/console/index.html#interface;name=public
