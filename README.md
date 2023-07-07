@@ -17,7 +17,7 @@
 
 ### levantar jboss EAP 7.2
 >- standalone.bat -b 0.0.0.0
->- standalone.bat -c stanalone-full.xml
+>- standalone.bat -c standalone-full.xml
 
 ### cambiar la dirección de administrador mediante comandos, primero por la siguiente ruta
 >- http://localhost:9990/console/index.html#interface;name=public
