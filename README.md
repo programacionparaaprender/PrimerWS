@@ -29,6 +29,9 @@
 >- en windows C:\jboss-eap-7.2\bin\standalone.conf.bat
 
 
+### proyecto realizado en primefaces
+>- https://github.com/programacionparaaprender/primefaces
+
 ### vídeo de ejemplo web service
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
