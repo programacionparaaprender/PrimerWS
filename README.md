@@ -36,5 +36,13 @@
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 
+### este vídeo funciono
+>- https://www.youtube.com/watch?v=fvKoSySXbEE
+
 ###  ruta de prueba de web service
 >- http://localhost:8080/PrimerWS/HolaWebService?wsdl
+>- http://localhost:8080/PrimerWS/HolaWebService/servlet/AxisServlet
+>- mkdir prueba && cd prueba
+>- wsimport -keep http://127.0.0.1:8080/PrimerWS/HolaWebService?wsdl
+### soapui
+>- https://www.soapui.org/downloads/soapui/
