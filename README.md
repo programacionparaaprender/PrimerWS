@@ -3,6 +3,14 @@
 >- https://udemy.com/course/admin-jboss-eap/learn/lecture/13754360#overview
 >- https://udemy.com/course/java-web-services
 
+### modos de jboss
+Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBoss Developer Studio y prueba su código en el mismo equipo. ¿Cuál sería el modo operativo más apropiado para EAP 7? (Elija solo una opción).
+>- Servidor Independiente
+>- Dominio gestionado
+>- Servidor integrado
+>- EAP 7 no se puede integrar en las versiones actuales de JBDS
+
+
 ### proyecto realizado
 >-  en spring tool suite 3.9.11
 >- plugin JBoss Tools 4.13.0.Final
