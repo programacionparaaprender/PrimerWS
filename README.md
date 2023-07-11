@@ -10,6 +10,11 @@ Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBo
 >- Servidor integrado
 >- EAP 7 no se puede integrar en las versiones actuales de JBDS
 
+### WSDL (Web Services Description Language)
+>- https://developer.ibm.com/technologies/web-development/
+
+### probar javascript
+>- https://jsfiddle.net/
 
 ### proyecto realizado
 >-  en spring tool suite 3.9.11
