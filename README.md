@@ -11,7 +11,8 @@ Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBo
 >- EAP 7 no se puede integrar en las versiones actuales de JBDS
 
 ### herramienta en JAXB para generar archivos java a partir de un esquema XML
->- xjc
+>- jdk1.8.0_25\Contents\xjc
+>- jdk1.8.0_25\Contents\schemagen
 
 ### WSDL (Web Services Description Language)
 >- https://developer.ibm.com/technologies/web-development/
