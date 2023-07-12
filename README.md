@@ -10,6 +10,8 @@
 ### pruebas http con jmeter
 >- https://www.youtube.com/watch?v=uguvCxejOJM
 
+### api a la que se le realiza test
+>- https://github.com/programacionparaaprender/springapirest-swagger
 
 
 ### modos de jboss
