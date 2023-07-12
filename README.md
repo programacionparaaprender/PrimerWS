@@ -7,6 +7,11 @@
 ### binarios de jmeter
 >- https://archive.apache.org/dist/jmeter/binaries/
 
+### pruebas http con jmeter
+>- https://www.youtube.com/watch?v=uguvCxejOJM
+
+
+
 ### modos de jboss
 Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBoss Developer Studio y prueba su código en el mismo equipo. ¿Cuál sería el modo operativo más apropiado para EAP 7? (Elija solo una opción).
 >- Servidor Independiente
