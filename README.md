@@ -12,6 +12,10 @@
 
 ### pruebas soap con jmeter
 >- https://www.youtube.com/watch?v=DJ_nXoExYFk
+>- http://dneonline.com/calculator.asmx?WSDL
+>- http://dneonline.com/calculator.asmx?op=Add
+>- http://www.dneonline.com/calculator.asmx?WSDL
+
 
 ### api a la que se le realiza test
 >- https://github.com/programacionparaaprender/springapirest-swagger
