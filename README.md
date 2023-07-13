@@ -1,20 +1,30 @@
-
 ### cursos
 >- https://udemy.com/course/admin-jboss-eap/learn/lecture/13754360#overview
 >- https://udemy.com/course/java-web-services
 >- https://udemy.com/course/jmeterpractico/learn/lecture/29680356#overview
 
+
 ### binarios de jmeter
 >- https://archive.apache.org/dist/jmeter/binaries/
 
+
 ### pruebas http con jmeter
+>- api swagger.jmx
+>- https://github.com/programacionparaaprender/springapirest-swagger
 >- https://www.youtube.com/watch?v=uguvCxejOJM
 
+## .xjb archivo donde se definen los enlaces de esquema 
+
 ### pruebas soap con jmeter
+>- prueba soap.jmx
 >- https://www.youtube.com/watch?v=DJ_nXoExYFk
 >- http://dneonline.com/calculator.asmx?WSDL
 >- http://dneonline.com/calculator.asmx?op=Add
 >- http://www.dneonline.com/calculator.asmx?WSDL
+
+
+### probar cookies en jmeter
+>- https://www.youtube.com/watch?v=cCkTA143dek
 
 
 ### api a la que se le realiza test
@@ -28,15 +38,19 @@ Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBo
 >- Servidor integrado
 >- EAP 7 no se puede integrar en las versiones actuales de JBDS
 
+
 ### herramienta en JAXB para generar archivos java a partir de un esquema XML
 >- jdk1.8.0_25\Contents\xjc
 >- jdk1.8.0_25\Contents\schemagen
 
+
 ### WSDL (Web Services Description Language)
 >- https://developer.ibm.com/technologies/web-development/
 
+
 ### probar javascript
 >- https://jsfiddle.net/
+
 
 ### proyecto realizado
 >-  en spring tool suite 3.9.11
@@ -47,13 +61,16 @@ Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBo
 >- Spring Tool Suite 3.9.11.RELEASE
 >- https://github.com/spring-projects/toolsuite-distribution/wiki/Spring-Tool-Suite-3
 
+
 ### instalar jboss EAP 7.2
 >- https://www.youtube.com/watch?v=FCgTSgGaxD8
 >- https://developers.redhat.com/products/eap/download?sc_cid=701f2000000Rm5EAAS&gclid=CjwKCAjwp-X0BRAFEiwAheRui1RkJiwqh5J4T098xpBE-jzyItsB3diTB0oVGwK_9b-oUh_g9ILpDhoCW0sQAvD_BwE&gclsrc=aw.ds%E2%80%8B
 
+
 ### levantar jboss EAP 7.2
 >- standalone.bat -b 0.0.0.0
 >- standalone.bat -c standalone-full.xml
+
 
 ### cambiar la dirección de administrador mediante comandos, primero por la siguiente ruta
 >- http://localhost:9990/console/index.html#interface;name=public
@@ -68,17 +85,22 @@ Un desarrollador utiliza su equipo para desarrollar aplicaciones Java EE con JBo
 ### proyecto realizado en primefaces
 >- https://github.com/programacionparaaprender/primefaces
 
+
 ### vídeo de ejemplo web service
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 >- https://www.youtube.com/watch?v=4n33DDhbY4s
 
+
 ### este vídeo funciono
 >- https://www.youtube.com/watch?v=fvKoSySXbEE
+
 
 ###  ruta de prueba de web service
 >- http://localhost:8080/PrimerWS/HolaWebService?wsdl
 >- http://localhost:8080/PrimerWS/HolaWebService/servlet/AxisServlet
 >- mkdir prueba && cd prueba
 >- wsimport -keep http://127.0.0.1:8080/PrimerWS/HolaWebService?wsdl
+
+
 ### soapui
 >- https://www.soapui.org/downloads/soapui/
