@@ -16,7 +16,7 @@
           <stringProp name="LoopController.loops">1</stringProp>
           <boolProp name="LoopController.continue_forever">false</boolProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.num_threads">10</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <boolProp name="ThreadGroup.delayedStart">false</boolProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
@@ -166,8 +166,8 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-  &quot;email&quot;: &quot;ejemplo@tio.com&quot;,&#xd;
-  &quot;nombre&quot;: &quot;Ejemplo tio&quot;,&#xd;
+  &quot;email&quot;: &quot;ejemplo1234@tio.com&quot;,&#xd;
+  &quot;nombre&quot;: &quot;Ejemplo tio2&quot;,&#xd;
   &quot;password&quot;: &quot;123456&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
